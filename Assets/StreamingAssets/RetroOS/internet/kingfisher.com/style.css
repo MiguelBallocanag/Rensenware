@@ -1,0 +1,37 @@
+/* Kingfisher - a hand-kept directory. Two columns of categories in a table,
+   the way a guide to the net was laid out before anybody indexed it. */
+
+/* No colour on "a" anywhere in this sheet, on purpose. The browser
+   paints a link blue and a followed one purple, and a colour set here
+   wins over both - which is how a page ends up with every link the
+   same colour whether you have been down it or not. */
+
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 13px;
+  padding: 10px;
+}
+
+h1 { font-size: 20px; color: #5a2080; margin-bottom: 2px; }
+h2 { font-size: 15px; color: #5a2080; margin-top: 12px; margin-bottom: 3px; }
+
+
+.cat { font-weight: bold; font-size: 14px; }
+.count { color: #808080; font-size: 11px; }
+.tag { color: #606060; font-size: 12px; }
+.new { color: #cc0000; font-weight: bold; font-size: 11px; }
+
+.strip {
+  background: #f0e8f8;
+  border: 1px #a080c0;
+  padding: 6px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.foot { font-size: 11px; color: #505050; }
+
+td { padding: 4px; }
+th { background: #5a2080; color: #ffffff; padding: 4px; text-align: left; }

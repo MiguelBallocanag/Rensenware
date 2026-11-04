@@ -1,0 +1,10 @@
+TAPE ROTATION
+
+MON  A1  full
+TUE  A2  incremental
+WED  A3  incremental
+THU  A4  incremental
+FRI  B1  full, off site
+
+Do not power the machine down mid-write. Workstation 04 has been
+told twice.

@@ -1,0 +1,45 @@
+/* Site-A intranet - plain CSS, the way a 1997 site was written. */
+
+body {
+  background: #c0c0c0;
+  color: #000000;
+  font-family: sans-serif;
+  padding: 14px;
+}
+
+h1 {
+  color: #000080;
+  font-size: 26px;
+  margin-bottom: 2px;
+}
+
+h2 {
+  color: #800000;
+  font-size: 19px;
+  margin-top: 14px;
+}
+
+.stamp {
+  color: #606060;
+  font-size: 12px;
+}
+
+.notice {
+  background: #ffffcc;
+  border: 1px #808080;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.warn {
+  background: #ffe0e0;
+  border: 1px #900000;
+  color: #600000;
+  padding: 10px;
+}
+
+code {
+  font-family: monospace;
+  background: #e8e8e8;
+}

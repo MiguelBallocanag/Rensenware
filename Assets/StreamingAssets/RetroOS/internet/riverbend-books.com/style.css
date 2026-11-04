@@ -1,0 +1,54 @@
+/* Riverbend Books - written the way a catalogue site was in 1996.
+   Tables do the layout, the type is the reader's own, and nothing moves. */
+
+/* No colour on "a" anywhere in this sheet, on purpose. The browser
+   paints a link blue and a followed one purple, and a colour set here
+   wins over both - which is how a page ends up with every link the
+   same colour whether you have been down it or not. */
+
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: serif;
+  font-size: 14px;
+  padding: 12px;
+}
+
+h1 { font-size: 24px; color: #253d1e; margin-bottom: 2px; }
+h2 { font-size: 19px; color: #5a3210; margin-top: 16px; margin-bottom: 4px; }
+h3 { font-size: 16px; color: #253d1e; margin-bottom: 2px; }
+
+
+.tag { color: #666666; font-size: 12px; }
+.price { color: #a00000; font-weight: bold; font-size: 16px; }
+.stock { color: #006000; font-size: 12px; }
+.out { color: #a00000; font-size: 12px; }
+
+.nav {
+  background: #eeeae0;
+  border: 1px #909080;
+  padding: 8px;
+  font-size: 13px;
+}
+
+.note {
+  background: #ffffe0;
+  border: 1px #c0b060;
+  padding: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.foot { font-size: 12px; color: #444444; }
+
+th { background: #253d1e; color: #ffffff; padding: 4px; text-align: left; }
+td { padding: 5px; }
+
+.buy {
+  background: #dcdcdc;
+  border: 2px #808080;
+  padding: 6px;
+  text-align: center;
+  font-weight: bold;
+}

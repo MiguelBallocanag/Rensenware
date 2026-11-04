@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 503e2b60396d4bd94ce541efbbb7230e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 391756
+  packageName: Retro OS - In Game 90s Operating System
+  packageVersion: 1.1.0
+  assetPath: Assets/StreamingAssets/RetroOS/machines/records-server/C/notice.txt
+  uploadId: 992048

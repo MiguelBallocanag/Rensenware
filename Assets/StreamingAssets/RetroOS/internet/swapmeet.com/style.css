@@ -1,0 +1,43 @@
+/* Swapmeet - an auction list. Dense tables, small type, and the prices doing
+   all the shouting, which is exactly how these sites looked. */
+
+/* No colour on "a" anywhere in this sheet, on purpose. The browser
+   paints a link blue and a followed one purple, and a colour set here
+   wins over both - which is how a page ends up with every link the
+   same colour whether you have been down it or not. */
+
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 13px;
+  padding: 10px;
+}
+
+h1 { font-size: 20px; color: #900000; margin-bottom: 2px; }
+h2 { font-size: 15px; color: #900000; margin-top: 12px; margin-bottom: 4px; }
+
+
+.bid { color: #009000; font-weight: bold; }
+.close { color: #900000; font-weight: bold; }
+.tag { color: #606060; font-size: 12px; }
+.small { font-size: 11px; color: #707070; }
+
+.strip {
+  background: #ffe8d8;
+  border: 1px #c08060;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.warn {
+  background: #fff0f0;
+  border: 1px #a00000;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.foot { font-size: 11px; color: #505050; }
+
+td { padding: 4px; }
+th { background: #900000; color: #ffffff; padding: 4px; text-align: left; }

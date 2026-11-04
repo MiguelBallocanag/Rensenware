@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b18fbd5d671f54c56043ec43456dc160
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 391756
+  packageName: Retro OS - In Game 90s Operating System
+  packageVersion: 1.1.0
+  assetPath: Assets/Deepwave/RetroOS/Editor/Deepwave.RetroOS.Editor.asmdef
+  uploadId: 992048

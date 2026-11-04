@@ -1,0 +1,4 @@
+SHARED DRIVE - MAINTENANCE
+
+Do not power down workstation 04. The tape drive is mid-write.
+Anything you put in archive/ is logged.

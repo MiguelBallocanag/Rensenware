@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1dd76315d9e4c108797c3f4d92fe684
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 391756
+  packageName: Retro OS - In Game 90s Operating System
+  packageVersion: 1.1.0
+  assetPath: Assets/StreamingAssets/RetroOS/internet/northpoint.local/bulletin.html
+  uploadId: 992048

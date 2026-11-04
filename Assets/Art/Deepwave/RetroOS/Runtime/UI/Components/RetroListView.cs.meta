@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f21b56d5daa28a4bb40fa84f96bb44f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 391756
+  packageName: Retro OS - In Game 90s Operating System
+  packageVersion: 1.1.0
+  assetPath: Assets/Deepwave/RetroOS/Runtime/UI/Components/RetroListView.cs
+  uploadId: 992048

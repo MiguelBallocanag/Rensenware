@@ -1,0 +1,45 @@
+/* Hometown Pages - a free-space community, so the house style is whatever
+   the member felt like. Loud on purpose: this is what the era looked like
+   when nobody was stopping it. */
+
+/* No colour on "a" anywhere in this sheet, on purpose. The browser
+   paints a link blue and a followed one purple, and a colour set here
+   wins over both - which is how a page ends up with every link the
+   same colour whether you have been down it or not. */
+
+body {
+  background: #000060;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 13px;
+  padding: 10px;
+}
+
+h1 { font-size: 22px; color: #ffff00; margin-bottom: 2px; }
+h2 { font-size: 16px; color: #00ffff; margin-top: 12px; margin-bottom: 3px; }
+
+.hood {
+  background: #202080;
+  border: 2px #6060c0;
+  padding: 6px;
+  font-size: 12px;
+}
+
+/* A panel, not a white sheet: every link on this site is painted for a dark
+   ground by <body link vlink>, and a white panel in the middle of it would
+   be the one place they could not be read. */
+.card {
+  background: #101a4a;
+  color: #ffffff;
+  border: 2px #6060c0;
+  padding: 8px;
+}
+
+.card h2 { color: #ffd040; }
+
+.tag { color: #b0b0d0; font-size: 12px; }
+.shout { color: #ffff00; font-weight: bold; }
+.foot { font-size: 11px; color: #a0a0c8; }
+
+td { padding: 5px; }
+th { background: #ffff00; color: #000060; padding: 4px; text-align: left; }

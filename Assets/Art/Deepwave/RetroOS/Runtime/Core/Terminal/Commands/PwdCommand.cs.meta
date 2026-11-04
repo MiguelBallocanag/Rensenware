@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: af35e3699e9b8da45bd139db94d5d304
+AssetOrigin:
+  serializedVersion: 1
+  productId: 391756
+  packageName: Retro OS - In Game 90s Operating System
+  packageVersion: 1.1.0
+  assetPath: Assets/Deepwave/RetroOS/Runtime/Core/Terminal/Commands/PwdCommand.cs
+  uploadId: 992048

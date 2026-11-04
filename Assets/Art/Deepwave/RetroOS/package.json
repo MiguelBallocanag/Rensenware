@@ -1,0 +1,26 @@
+{
+  "name": "com.deepwave.retro-os",
+  "version": "1.1.0",
+  "displayName": "RetroOS — In-Game 90s Operating System",
+  "description": "Most retro-desktop assets give you the look of a 90s computer. RetroOS gives you the computer.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.inputsystem": "1.8.0"
+  },
+  "author": {
+    "name": "wave0084"
+  },
+  "keywords": [
+    "retro",
+    "operating-system",
+    "windows-95",
+    "desktop",
+    "ui",
+    "gui",
+    "horror",
+    "browser",
+    "html",
+    "crt"
+  ]
+}

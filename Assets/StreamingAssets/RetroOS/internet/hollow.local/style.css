@@ -1,0 +1,18 @@
+/* Left running after the board was shut down. Nobody restyled it. */
+
+body {
+  background: #000000;
+  color: #b0b0b0;
+  font-family: monospace;
+  padding: 18px;
+}
+
+h1 {
+  color: #d0d0d0;
+  font-size: 24px;
+  margin-bottom: 2px;
+}
+
+p { margin-top: 12px; }
+
+.sig { color: #808080; }

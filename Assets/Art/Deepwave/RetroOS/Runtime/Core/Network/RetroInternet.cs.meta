@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7652d103fe58934cbe71f5fbf9402fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 622156de709774948b9c7af217c20a92, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 391756
+  packageName: Retro OS - In Game 90s Operating System
+  packageVersion: 1.1.0
+  assetPath: Assets/Deepwave/RetroOS/Runtime/Core/Network/RetroInternet.cs
+  uploadId: 992048
