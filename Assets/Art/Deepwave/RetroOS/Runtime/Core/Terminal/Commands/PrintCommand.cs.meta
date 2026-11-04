@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 588636005c61c9e43a58c1840f76c320
-AssetOrigin:
-  serializedVersion: 1
-  productId: 391756
-  packageName: Retro OS - In Game 90s Operating System
-  packageVersion: 1.1.0
-  assetPath: Assets/Deepwave/RetroOS/Runtime/Core/Terminal/Commands/PrintCommand.cs
-  uploadId: 992048

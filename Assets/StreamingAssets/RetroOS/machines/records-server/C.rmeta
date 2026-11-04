@@ -1,5 +1,0 @@
-drive: C
-type: fixed
-label: RECORDS
-share: ARCHIVE
-sharecomment: Incident records. Sealed folders need the year.

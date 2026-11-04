@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: f9f2a8a3640b8fc4eb0167e0e6b2fdc8
-AssetOrigin:
-  serializedVersion: 1
-  productId: 391756
-  packageName: Retro OS - In Game 90s Operating System
-  packageVersion: 1.1.0
-  assetPath: Assets/Deepwave/RetroOS/Runtime/Core/Terminal/Commands/HelpCommand.cs
-  uploadId: 992048
