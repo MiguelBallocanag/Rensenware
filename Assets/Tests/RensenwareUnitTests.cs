@@ -145,7 +145,7 @@ public class RensenwareUnitTests
     //DesktopManager.cs test 2
     //tests if x-ing out the mailwindow works and opening it too
     [Test]
-    void CloseMail_WindowActive_DeactivatesWindow()
+    public void CloseMail_WindowActive_DeactivatesWindow()
     {
         //arrange - makes a desktop manager component
         DesktopManager desktopManager = testObject.AddComponent<DesktopManager>();
