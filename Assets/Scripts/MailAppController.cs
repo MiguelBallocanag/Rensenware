@@ -19,6 +19,9 @@ public class MailAppController : MonoBehaviour
     [SerializeField] private TMP_Text emailPreviewText;
     [SerializeField] private Button emailLinkButton;
     [SerializeField] private TMP_Text emailLinkText;
+
+    //controls the popups
+    [SerializeField] private PopupSequenceController popupSequenceController;
     
     //list containing all emails in the inbox
     [SerializeField] private List<EmailData> emails = new List<EmailData>();
@@ -126,7 +129,7 @@ public class MailAppController : MonoBehaviour
     //called when player clicks link for now just displays a log warning that if successfully clicked
     public void OnEmailLinkClicked()
     {
-        if(selectedEmailIndex < 0 || selectedEmailIndex > emails.Count)
+        if(selectedEmailIndex < 0 || selectedEmailIndex >= emails.Count)
         {
             return;
         }
@@ -141,6 +144,15 @@ public class MailAppController : MonoBehaviour
         if (email.isSuspicious)
         {
             Debug.LogWarning("clicked bad link: " + email.linkURL);
+
+            if(popupSequenceController != null)
+            {
+                popupSequenceController.StartPopupSequence();
+            }
+            else
+            {
+                Debug.LogError("popup sequence controller not assigned");
+            }
         }
         else
         {
