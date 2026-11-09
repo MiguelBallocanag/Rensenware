@@ -178,38 +178,6 @@ public class RensenwareUnitTests
         //should return 
         Assert.DoesNotThrow(() => dragHandler.OnDrag(null));
     }
-    //DesktopManager.cs Photos test 1
-    // Tests if clicking phtos opens photo window
-    [Test]
-    public void OpenPhotos_WindowInactive_ActivateWindow(){
-        //arrange
-        DesktopManager desktopManager = testObject.AddComponent<DesktopManager>();
-        GameObject photosWindow = new GameObject("PhotosWindow");
-        photosWindow.transform.SetParent(testObject.transform);
-        photosWindow.SetActive(false);
-        SetPrivateField(desktopManager, "photosWindow", photosWindow);
-        //act
-        desktopManager.OpenPhotos();
-        //assert
-        Assert.IsTrue(photosWindow.activeSelf);
-    }
-    //DesktopManager.cs Photo test 2
-    //test if closing the window works
-    [Test]
-    public void ClosePhotos_WindowActive_DeactivatesWindow(){
-        //arrange
-        DesktopManager desktopManager = testObject.AddComponent<DesktopManager>();
-        GameObject photosWindow = new GameObject("PhotosWindow");
-        photosWindow.transform.SetParent(testObject.transform);
-        photosWindow.SetActive(true);
-        
-        SetPrivateField(desktopManager, "photosWindow", photosWindow);
-        //act
-        desktopManager.ClosePhotos();
-        //assert
-        Assert.IsFalse(photosWindow.activeSelf);
-    }
-    
-    //NEED UNIT TEST FOR POPUPHANDLER
 
+    //NEED UNIT TEST FOR POPUPHANDLER
 }

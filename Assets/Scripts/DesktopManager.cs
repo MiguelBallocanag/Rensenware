@@ -1,33 +1,22 @@
 using UnityEngine;
 
-public class DesktopManager : MonoBehaviour{
+public class DesktopManager : MonoBehaviour
+{
     [SerializeField] private GameObject mailWindow;
-    [SerializeField] private GameObject photosWindow;
-
-    void Start(){
-        if(mailWindow != null){
-            mailWindow.SetActive(false);
-        }
-    }
-    public void OpenMail(){
-        if(mailWindow != null){
-            mailWindow.SetActive(true);
-        }
+    void Start()
+    {
+     //mail starts closed when the game boots.
+     mailWindow.SetActive(false);   
     }
 
-    public void CloseMail(){
-        if(mailWindow != null){
-            mailWindow.SetActive(false);
-        }
+    public void OpenMail()
+    {
+        mailWindow.SetActive(true);
     }
-    public void OpenPhotos(){
-        if(photosWindow != null){
-            photosWindow.SetActive(true);
-        }
+
+    public void CloseMail()
+    {
+        mailWindow.SetActive(false);
     }
-    public void ClosePhotos(){
-        if (photosWindow != null){
-            photosWindow.SetActive(false);
-        }
-    }
+
 }
