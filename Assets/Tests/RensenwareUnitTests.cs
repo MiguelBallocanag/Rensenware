@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
+using System.Reflection.Emit;
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using UnityEngine;
@@ -211,5 +212,55 @@ public class RensenwareUnitTests
         Assert.DoesNotThrow(() => dragHandler.OnDrag(null));
     }
 
-    //NEED UNIT TEST FOR POPUPHANDLER
+    //PopupSequenceController.cs unit test
+    //creates two popups and checks if they successfully open in order
+   [Test]
+   public void ShowPopups_TwoPopups_ShowFirstThenSecond()
+    {
+        //arrange - create a temporary object for the popup controller
+        GameObject popupRoot = new GameObject("PopupRoot");
+        popupRoot.transform.SetParent(testObject.transform);
+        popupRoot.SetActive(false);
+
+        PopupSequenceController controller = popupRoot.AddComponent<PopupSequenceController>();
+
+        GameObject firstPopup = new GameObject("FirstPopup");
+        GameObject secondPopup = new GameObject("SecondPopup");
+
+        firstPopup.transform.SetParent(popupRoot.transform);
+        secondPopup.transform.SetParent(popupRoot.transform);
+
+        //assign to popups and their delay
+        SetPrivateField(controller, "warningPopups", new GameObject[] { firstPopup, secondPopup });
+
+        SetPrivateField(controller, "popUpDelays", new float[] { 0f });
+
+        //activates the controller and disable the popups
+        popupRoot.SetActive(true);
+        firstPopup.SetActive(false);
+        secondPopup.SetActive(false);
+
+        //act - access the private ShowPopups coroutine
+        MethodInfo method = typeof(PopupSequenceController).GetMethod("ShowPopups",BindingFlags.Instance | BindingFlags.NonPublic);
+
+        Assert.IsNotNull(method);
+
+        IEnumerator sequence = (IEnumerator)method.Invoke(controller,null);
+        
+        //advances the coroutine to the first delay
+        Assert.IsTrue(sequence.MoveNext());
+
+        //assert - first popup is active, second is inactive
+        Assert.IsTrue(firstPopup.activeSelf);
+        Assert.IsFalse(secondPopup.activeSelf);
+
+        //act -advance the coroutine again
+        sequence.MoveNext();
+
+        //assert - second popup active
+        Assert.IsTrue(secondPopup.activeSelf);
+
+
+
+    }
 }
