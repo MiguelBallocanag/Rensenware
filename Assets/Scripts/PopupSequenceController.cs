@@ -26,6 +26,7 @@ public class PopupSequenceController : MonoBehaviour
         {
             return;
         }
+        sequenceStarted = true;
 
         StartCoroutine(ShowPopups());
     }
