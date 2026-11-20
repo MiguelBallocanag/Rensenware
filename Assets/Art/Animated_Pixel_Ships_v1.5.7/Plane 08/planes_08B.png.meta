@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9f94c77e53b40574bb8c2f0787de1433
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5322540602935955304
+    second: planes_08B_0
+  - first:
+      213: -3043047435017232595
+    second: planes_08B_1
+  - first:
+      213: 3692850622990432466
+    second: planes_08B_2
+  - first:
+      213: 2437200171711732849
+    second: planes_08B_3
+  - first:
+      213: 4007832490089360881
+    second: planes_08B_4
+  - first:
+      213: 4757282149384566694
+    second: planes_08B_5
+  - first:
+      213: -1581171663483024160
+    second: planes_08B_6
+  - first:
+      213: 6254170988354687235
+    second: planes_08B_7
+  - first:
+      213: 4257205416472808724
+    second: planes_08B_8
+  - first:
+      213: -5182694581999495964
+    second: planes_08B_9
+  - first:
+      213: 7353920589294635081
+    second: planes_08B_10
+  - first:
+      213: 7115484697903026059
+    second: planes_08B_11
+  - first:
+      213: 8790248859855470910
+    second: planes_08B_12
+  - first:
+      213: 4432321414078997547
+    second: planes_08B_13
+  - first:
+      213: 2823296216371121096
+    second: planes_08B_14
+  - first:
+      213: -3602620144059399466
+    second: planes_08B_15
+  - first:
+      213: 3609001351745908469
+    second: planes_08B_16
+  - first:
+      213: -8677315715063608064
+    second: planes_08B_17
+  - first:
+      213: -6089487672270982658
+    second: planes_08B_18
+  - first:
+      213: -207303286128502382
+    second: planes_08B_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planes_08B_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 388
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f47947a767dd940800000000000000
+      internalID: 5322540602935955304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 391
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f52290b7ce4c5d0800000000000000
+      internalID: -3043047435017232595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 390
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8bce77314af3330800000000000000
+      internalID: 3692850622990432466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 389
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c1661b4aca2d120800000000000000
+      internalID: 2437200171711732849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 292
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdab035a6eae9730800000000000000
+      internalID: 4007832490089360881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 295
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7bf52e8e2450240800000000000000
+      internalID: 4757282149384566694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 294
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec4e2ddfbc8e0ae0800000000000000
+      internalID: -1581171663483024160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 293
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3015f6db0674bc650800000000000000
+      internalID: 6254170988354687235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 197
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0bb845c1a41b30800000000000000
+      internalID: 4257205416472808724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 199
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4149c9cbe5318b0800000000000000
+      internalID: -5182694581999495964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 198
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948865f20df5e0660800000000000000
+      internalID: 7353920589294635081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 197
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fcc3f12a74fb260800000000000000
+      internalID: 7115484697903026059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 100
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c7fae3cc3df970800000000000000
+      internalID: 8790248859855470910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 103
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b242988b7d4c28d30800000000000000
+      internalID: 4432321414078997547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 102
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb418843fc5e2720800000000000000
+      internalID: 2823296216371121096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 101
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d24ca4011ce00ec0800000000000000
+      internalID: -3602620144059399466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe28bcab9fb51230800000000000000
+      internalID: 3609001351745908469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d08bfd45bf39780800000000000000
+      internalID: -8677315715063608064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1fa2eb93bcd7ba0800000000000000
+      internalID: -6089487672270982658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planes_08B_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991a8572c28f1df0800000000000000
+      internalID: -207303286128502382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      planes_08B_0: 5322540602935955304
+      planes_08B_1: -3043047435017232595
+      planes_08B_10: 7353920589294635081
+      planes_08B_11: 7115484697903026059
+      planes_08B_12: 8790248859855470910
+      planes_08B_13: 4432321414078997547
+      planes_08B_14: 2823296216371121096
+      planes_08B_15: -3602620144059399466
+      planes_08B_16: 3609001351745908469
+      planes_08B_17: -8677315715063608064
+      planes_08B_18: -6089487672270982658
+      planes_08B_19: -207303286128502382
+      planes_08B_2: 3692850622990432466
+      planes_08B_3: 2437200171711732849
+      planes_08B_4: 4007832490089360881
+      planes_08B_5: 4757282149384566694
+      planes_08B_6: -1581171663483024160
+      planes_08B_7: 6254170988354687235
+      planes_08B_8: 4257205416472808724
+      planes_08B_9: -5182694581999495964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

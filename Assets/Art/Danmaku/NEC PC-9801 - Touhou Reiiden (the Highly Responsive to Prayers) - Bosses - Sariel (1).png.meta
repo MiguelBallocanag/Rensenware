@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: ad5517235783f6b418e26846b871effb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8738567157972267073
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_0
+  - first:
+      213: -7179209016988305220
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_1
+  - first:
+      213: 4004446413073264570
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_2
+  - first:
+      213: -856589659216567519
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_3
+  - first:
+      213: -6299726618851970893
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_4
+  - first:
+      213: -1489696485059418383
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_5
+  - first:
+      213: 343930225300966258
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_6
+  - first:
+      213: -6731256557039741058
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_7
+  - first:
+      213: 2945648725540941767
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_8
+  - first:
+      213: -320347392961826581
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_9
+  - first:
+      213: 6810738871125674854
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_10
+  - first:
+      213: 3829891210173182783
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_11
+  - first:
+      213: -5065827970556348541
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_12
+  - first:
+      213: 3357803717616679420
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_13
+  - first:
+      213: 875485594375845216
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_14
+  - first:
+      213: 8618426808295231659
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_15
+  - first:
+      213: -8844471425133709221
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_16
+  - first:
+      213: 5528003035750957452
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_17
+  - first:
+      213: 7087920983569079454
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_18
+  - first:
+      213: -7242304479756986674
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_19
+  - first:
+      213: 6887956053762423771
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_20
+  - first:
+      213: -1958033596204770245
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_21
+  - first:
+      213: -7403867012927956440
+    second: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel (1)_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 441
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140f4d00880a54970800000000000000
+      internalID: 8738567157972267073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 569
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87126af635e5c90800000000000000
+      internalID: -7179209016988305220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 469
+        width: 288
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfa155dbc6a29730800000000000000
+      internalID: 4004446413073264570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 566
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123af1c4e38cc14f0800000000000000
+      internalID: -856589659216567519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 369
+        width: 676
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0714d7400e298a0800000000000000
+      internalID: -6299726618851970893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 577
+        width: 195
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a2e880f8835be0800000000000000
+      internalID: -1489696485059418383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 48
+        width: 395
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b859ab7b2e5c400800000000000000
+      internalID: 343930225300966258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 672
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7790a933d5c592a0800000000000000
+      internalID: -6731256557039741058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 576
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf23feb8eb01e820800000000000000
+      internalID: 2945648725540941767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 569
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b9cd4eb5ed8bf0800000000000000
+      internalID: -320347392961826581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b046f1bea948e50800000000000000
+      internalID: 6810738871125674854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 470
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3373c693c1862530800000000000000
+      internalID: 3829891210173182783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 417
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38730c9fc4092b9b0800000000000000
+      internalID: -5065827970556348541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 642
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf93706d0b0599e20800000000000000
+      internalID: 3357803717616679420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_14
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 401
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0657eb27289562c00800000000000000
+      internalID: 875485594375845216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_15
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 422
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0142f058dca9770800000000000000
+      internalID: 8618426808295231659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 401
+        width: 166
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ffce4910224580800000000000000
+      internalID: -8844471425133709221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 401
+        width: 251
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81873fe87967bc40800000000000000
+      internalID: 5528003035750957452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 642
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1ca5c49a5d5260800000000000000
+      internalID: 7087920983569079454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 642
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec65dd0727a2e7b90800000000000000
+      internalID: -7242304479756986674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1
+        width: 196
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb205798fe69f50800000000000000
+      internalID: 6887956053762423771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 369
+        width: 430
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c1fef71daa3d4e0800000000000000
+      internalID: -1958033596204770245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 85
+        width: 266
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a523add2e204990800000000000000
+      internalID: -7403867012927956440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_0: 8738567157972267073
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_1: -7179209016988305220
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_10: 6810738871125674854
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_11: 3829891210173182783
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_12: -5065827970556348541
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_13: 3357803717616679420
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_14: 875485594375845216
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_15: 8618426808295231659
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_16: -8844471425133709221
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_17: 5528003035750957452
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_18: 7087920983569079454
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_19: -7242304479756986674
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_2: 4004446413073264570
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_20: 6887956053762423771
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_21: -1958033596204770245
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_22: -7403867012927956440
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_3: -856589659216567519
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_4: -6299726618851970893
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_5: -1489696485059418383
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_6: 343930225300966258
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_7: -6731256557039741058
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_8: 2945648725540941767
+      NEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel (1)_9: -320347392961826581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

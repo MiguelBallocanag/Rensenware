@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: 20b3b46f346543949a07f49303b2bccc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6789315530270709458
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_0
+  - first:
+      213: 4553412860000036415
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_1
+  - first:
+      213: 22945927081852457
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_2
+  - first:
+      213: -7951995689766056690
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_3
+  - first:
+      213: 3414973400081707114
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_4
+  - first:
+      213: -8640801391376309669
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_5
+  - first:
+      213: -4141735136612443742
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_6
+  - first:
+      213: 3849806344058799653
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_7
+  - first:
+      213: 2840766059080740981
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_8
+  - first:
+      213: 2956682664018436141
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_9
+  - first:
+      213: -2063499930118213983
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_10
+  - first:
+      213: 2189875989604427747
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_11
+  - first:
+      213: -5860405566344255872
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_12
+  - first:
+      213: 86027956526911514
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_13
+  - first:
+      213: 2501669745696284576
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_14
+  - first:
+      213: -7885977458681046721
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_15
+  - first:
+      213: -7727864731839385104
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_16
+  - first:
+      213: 7387586440490835478
+    second: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+      - Sariel_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29eb2e1f7187c1a0800000000000000
+      internalID: -6789315530270709458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 401
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366ff30fd8f03f30800000000000000
+      internalID: 4553412860000036415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 401
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e71c8f235815000800000000000000
+      internalID: 22945927081852457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_3
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 401
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8e083d06d4a190800000000000000
+      internalID: -7951995689766056690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_4
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 708
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60374dc63c646f20800000000000000
+      internalID: 3414973400081707114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_5
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 612
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52605c5ae4b51880800000000000000
+      internalID: -8640801391376309669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9167c46d99586c0800000000000000
+      internalID: -4141735136612443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268ba709724d6530800000000000000
+      internalID: 3849806344058799653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_8
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5707e710ead6c6720800000000000000
+      internalID: 2840766059080740981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_9
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 0
+        width: 642
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ef5eb73f380920800000000000000
+      internalID: 2956682664018436141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_10
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 359
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aea2471fb9fc53e0800000000000000
+      internalID: -2063499930118213983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_11
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 312
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7678e2c90046e10800000000000000
+      internalID: 2189875989604427747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_12
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 311
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086245aef28abaea0800000000000000
+      internalID: -5860405566344255872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_13
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 263
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a101a8d78f1a13100800000000000000
+      internalID: 86027956526911514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_14
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 224
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af91991167b7b220800000000000000
+      internalID: 2501669745696284576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_15
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 215
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39149478416f8290800000000000000
+      internalID: -7885977458681046721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_16
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 128
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1b17a68fb11c490800000000000000
+      internalID: -7727864731839385104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses
+        - Sariel_17
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 24
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed2fcf9baf58660800000000000000
+      internalID: 7387586440490835478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_0: -6789315530270709458
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_1: 4553412860000036415
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_10: -2063499930118213983
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_11: 2189875989604427747
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_12: -5860405566344255872
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_13: 86027956526911514
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_14: 2501669745696284576
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_15: -7885977458681046721
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_16: -7727864731839385104
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_17: 7387586440490835478
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_2: 22945927081852457
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_3: -7951995689766056690
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_4: 3414973400081707114
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_5: -8640801391376309669
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_6: -4141735136612443742
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_7: 3849806344058799653
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_8: 2840766059080740981
+      FFNEC PC-9801 - Touhou Reiiden (the Highly Responsive to Prayers) - Bosses - Sariel_9: 2956682664018436141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
