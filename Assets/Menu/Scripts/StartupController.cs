@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
+using UnityEngine.U2D.IK;
 
 public class StartupController : MonoBehaviour
 {
@@ -16,13 +17,26 @@ public class StartupController : MonoBehaviour
     [Header("Timing")]
     [SerializeField] private float splashDuration = 3f;
 
+    private Coroutine biosCoroutine;
+    private bool isBIOSRunning;
+
     private void Start()
     {
         biosScreen.SetActive(true);
         splashScreen.SetActive(false);
         loginScreen.SetActive(false);
 
-        StartCoroutine(BIOSSequence());
+        isBIOSRunning = true;
+        biosCoroutine = StartCoroutine(BIOSSequence());
+    }
+
+    private void Update()
+    {
+        if(isBIOSRunning && Input.GetKeyDown(KeyCode.F1))
+        {
+            StopCoroutine(biosCoroutine);
+            StartCoroutine(SplashSequence());
+        }
     }
 
     private IEnumerator BIOSSequence()
@@ -60,7 +74,17 @@ public class StartupController : MonoBehaviour
         
         yield return new WaitForSecondsRealtime(.3f);
 
+        biosText.text += "None\n";
+
+        biosText.text += "Detecting IDE Secondary Master ... ";
+        yield return new WaitForSecondsRealtime(.4f);
+        biosText.text  += "CD-ROM\n";
+
+        biosText.text += "Detecting IDE Secondary Slave   ... ";
+
+        yield return new WaitForSecondsRealtime(.3f);
         biosText.text += "None\n\n";
+
         biosText.text += "Verifying DMI Pool Data ........";
 
         yield return new WaitForSecondsRealtime(.5f);
@@ -76,16 +100,21 @@ public class StartupController : MonoBehaviour
             biosText.text = completedText;
             yield return new WaitForSecondsRealtime(.5f);
         }
+        yield return SplashSequence();
 
+    }
+    private IEnumerator SplashSequence()
+    {
+        isBIOSRunning = false;
         biosScreen.SetActive(false);
-        
-        yield return new WaitForSecondsRealtime(.5f);
 
+        yield return new WaitForSecondsRealtime(.5f);
         splashScreen.SetActive(true);
 
         yield return new WaitForSecondsRealtime(splashDuration);
 
         splashScreen.SetActive(false);
         loginScreen.SetActive(true);
+
     }
 }
