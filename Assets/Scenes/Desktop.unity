@@ -6186,7 +6186,7 @@ MonoBehaviour:
   - {fileID: 1408969941}
   - {fileID: 1472222695}
   scrollSpeed: 0.7
-  tileHeight: 7
+  tileHeight: 5
 --- !u!1 &1350415555
 GameObject:
   m_ObjectHideFlags: 0
@@ -9629,7 +9629,7 @@ Transform:
   m_GameObject: {fileID: 2067841121}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -3, z: 0}
+  m_LocalPosition: {x: 0, y: -6, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
