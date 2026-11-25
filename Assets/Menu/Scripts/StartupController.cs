@@ -64,7 +64,7 @@ public class StartupController : MonoBehaviour
         biosFooter.gameObject.SetActive(true);
         yield return new WaitForSecondsRealtime(.3f);
 
-        biosFooter.text += "Award Plug and Play BIOS Extension v1.0A\n\n";
+        biosText.text += "Award Plug and Play BIOS Extension v1.0A\n\n";
         biosText.text += "Detecting IDE Primary Master  ... ";
         
         yield return new WaitForSecondsRealtime(.5f);
