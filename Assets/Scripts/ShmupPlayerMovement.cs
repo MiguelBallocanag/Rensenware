@@ -6,12 +6,14 @@ public class ShmupPlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
 
     private SpriteRenderer playerSprite;
+    private Animator playerAnimator;
 
     private bool movementEnabled = false;
 
     private void Awake()
     {
         playerSprite = GetComponent<SpriteRenderer>();
+        playerAnimator = GetComponent<Animator>();
     }
 
     public void BeginMovement()
@@ -28,6 +30,11 @@ public class ShmupPlayerMovement : MonoBehaviour
 
         //reads what key the player is pressing 
         Vector2 input = ReadMovementInput();
+
+        if(playerAnimator != null)
+        {
+            playerAnimator.SetInteger("HorizontalDirection", Mathf.RoundToInt(input.x));
+        }
 
         Vector2 nextPosition = CalculateNextPosition(transform.position, input, moveSpeed, Time.deltaTime);
 
